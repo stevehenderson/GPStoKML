@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document id="f679760d-9e30-46fe-a741-7391d7a755ec">
+		<Style id="7e5ec4e9-25c3-42d0-9c5f-ed419ef851a7">
+			<LineStyle id="f4f3732e-95ba-4b3a-85d3-2dbdd03bf293">
+				<color>ff005555</color>
+				<width>5.0</width>
+			</LineStyle>
+		</Style>
+		<Style id="peopleIcon">
+			<IconStyle id="e75e16b2-9e27-4dbb-a98a-51c8bd4eb6a4">
+				<scale>1.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/man.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="wpIconNorth">
+			<IconStyle id="30a4e0f7-6cbb-49b7-b4fb-08eb4061ebfb">
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/micons/green-dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="wpIconSouth">
+			<IconStyle id="6d8eba86-17a1-4512-8a89-cc7f82ccbe93">
+				<scale>0.5</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/ms/micons/yellow-dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder id="72a03a8e-bf8f-4f6a-8343-8206dec2307e">
+			<name>North Route</name>
+			<Placemark id="535a4ca5-96b8-4426-8790-2befddfb365c">
+				<name>3379</name>
+				<description><![CDATA[Time: 12:16:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 8.208318<br>]]></description>
+				<LookAt id="8d7d287a-4f56-42ef-bfae-1b92684b01a7">
+					<longitude>-73.963628</longitude>
+					<latitude>41.371269</latitude>
+					<altitude>9.328649</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="4a23ba47-f84c-4d83-b03e-116af284b784">
+					<coordinates>-73.963628,41.371269,9.328649</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06909852-70aa-4f8e-b782-0f70cc79d6b1">
+				<name>3380</name>
+				<description><![CDATA[Time: 12:16:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 15.888293<br>]]></description>
+				<LookAt id="fd6f1481-dff6-4446-8dde-766b9507d39b">
+					<longitude>-73.963835</longitude>
+					<latitude>41.371341</latitude>
+					<altitude>9.789267</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c97e7513-b17e-424d-a257-c672cc5d03eb">
+					<coordinates>-73.963835,41.371341,9.789267</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7ebc0224-9520-4d06-8bed-7cee0ac752f8">
+				<name>3381</name>
+				<description><![CDATA[Time: 12:16:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 9.662374<br>]]></description>
+				<LookAt id="3b34ab5c-6afe-4eaf-b93c-7ee2b3e76d93">
+					<longitude>-73.963973</longitude>
+					<latitude>41.371377</latitude>
+					<altitude>9.445899</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="1e525795-f072-4dea-a5e4-d05bff6af588">
+					<coordinates>-73.963973,41.371377,9.445899</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="440bdb81-3952-4229-9f22-72d27b1dfafd">
+				<name>3382</name>
+				<description><![CDATA[Time: 12:16:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 28.50598<br>]]></description>
+				<LookAt id="5bd2f1f7-bb4b-4e2f-8694-a5175cd2249c">
+					<longitude>-73.963999</longitude>
+					<latitude>41.371651</latitude>
+					<altitude>11.114346</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="6dc5fe13-d2fa-46a5-a07b-efbd18500001">
+					<coordinates>-73.963999,41.371651,11.114346</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="82b32729-46c7-4d68-b72d-0aa882811f87">
+				<name>3383</name>
+				<description><![CDATA[Time: 12:16:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 44.005863<br>]]></description>
+				<LookAt id="04331952-6846-447d-8a0f-6666c4740399">
+					<longitude>-73.963901</longitude>
+					<latitude>41.372136</latitude>
+					<altitude>12.947822</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="629d5383-d36d-4ef8-b487-875da0ad84a6">
+					<coordinates>-73.963901,41.372136,12.947822</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="12ea758b-a73d-49aa-a71c-eaaa4160755d">
+				<name>3384</name>
+				<description><![CDATA[Time: 12:16:58<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 50.005196<br>]]></description>
+				<LookAt id="d8088738-bfb0-4d2e-adfb-b6ab5db461fa">
+					<longitude>-73.963777</longitude>
+					<latitude>41.372721</latitude>
+					<altitude>13.803427</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c3e16382-bf7c-45fa-8316-a59a4db4d513">
+					<coordinates>-73.963777,41.372721,13.803427</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="a699204e-890d-4e99-b062-425f953cf264">
+				<name>3385</name>
+				<description><![CDATA[Time: 12:17:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 48.726913<br>]]></description>
+				<LookAt id="43a424aa-d0cb-42ee-a8af-e118668aad52">
+					<longitude>-73.963646</longitude>
+					<latitude>41.373397</latitude>
+					<altitude>13.556033</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="be7cc5fc-053b-49a2-8a77-8f6d473f0193">
+					<coordinates>-73.963646,41.373397,13.556033</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="546ad286-39bb-4847-8375-2e693ef5c8f1">
+				<name>3386</name>
+				<description><![CDATA[Time: 12:17:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 45.342915<br>]]></description>
+				<LookAt id="4f7e3157-2a55-4422-ac5c-01418f4ef95a">
+					<longitude>-73.963453</longitude>
+					<latitude>41.373984</latitude>
+					<altitude>13.36136</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="f95a4be9-d799-456f-a431-da0a71c9e9a6">
+					<coordinates>-73.963453,41.373984,13.36136</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="aa0c012b-171c-4504-b289-4bb659f843c6">
+				<name>3387</name>
+				<description><![CDATA[Time: 12:17:13<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 41.662331<br>]]></description>
+				<LookAt id="3a1d3c70-4de0-4f43-ba24-79885454e7b4">
+					<longitude>-73.963254</longitude>
+					<latitude>41.374522</latitude>
+					<altitude>14.819215</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="d91f2207-fa5a-4f66-8668-c2982f603ced">
+					<coordinates>-73.963254,41.374522,14.819215</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="a139fab4-8881-4e94-aa35-2b19c8f9ee70">
+				<name>3388</name>
+				<description><![CDATA[Time: 12:17:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 42.821213<br>]]></description>
+				<LookAt id="bc79b9dd-f046-4ce9-9ae3-093bbfb7500e">
+					<longitude>-73.96307</longitude>
+					<latitude>41.375042</latitude>
+					<altitude>15.265269</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="f78e29e3-2796-41c3-9b8c-98e247a95bfc">
+					<coordinates>-73.96307,41.375042,15.265269</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1f1f5a41-1f64-497d-a0ad-1c256567df99">
+				<name>3389</name>
+				<description><![CDATA[Time: 12:17:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 41.645367<br>]]></description>
+				<LookAt id="efb6a792-87a1-48ab-93a1-4ffbebea54bb">
+					<longitude>-73.962883</longitude>
+					<latitude>41.375551</latitude>
+					<altitude>16.209337</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="290b44ea-eb8d-41c1-b926-5e7526b5455e">
+					<coordinates>-73.962883,41.375551,16.209337</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="64322806-01f5-41f4-827b-9dd6f29f019e">
+				<name>3390</name>
+				<description><![CDATA[Time: 12:17:27<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 33.407986<br>]]></description>
+				<LookAt id="d4712317-b49b-40d1-9129-f76d09a780b2">
+					<longitude>-73.962704</longitude>
+					<latitude>41.376011</latitude>
+					<altitude>17.330515</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="9264da39-3b6c-4497-81d1-f49165e6f2d6">
+					<coordinates>-73.962704,41.376011,17.330515</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="283ccb04-e839-4e11-bc75-0030b148b09d">
+				<name>3391</name>
+				<description><![CDATA[Time: 12:17:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 25.422684<br>]]></description>
+				<LookAt id="8c4512ed-95e0-4e0b-8835-2358964477c1">
+					<longitude>-73.962529</longitude>
+					<latitude>41.376371</latitude>
+					<altitude>18.524931</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="2be494e7-6971-450e-8214-5dc594cdc69b">
+					<coordinates>-73.962529,41.376371,18.524931</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="d7c96d36-3739-480d-a0a4-c02f72c110cf">
+				<name>3392</name>
+				<description><![CDATA[Time: 12:17:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 13.381968<br>]]></description>
+				<LookAt id="35061cba-ac39-4b0d-a82d-f396ea3cdd6b">
+					<longitude>-73.96241</longitude>
+					<latitude>41.376595</latitude>
+					<altitude>19.424257</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="dff310c8-3056-45c0-8c17-d4647679f39a">
+					<coordinates>-73.96241,41.376595,19.424257</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="12dbf93e-a946-493b-a2cc-b98a4fab3cd8">
+				<name>3393</name>
+				<description><![CDATA[Time: 12:18:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.04669<br>]]></description>
+				<LookAt id="35279e66-8cdc-44a1-b16c-f9ab95bb96b2">
+					<longitude>-73.962404</longitude>
+					<latitude>41.376684</latitude>
+					<altitude>21.488203</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c61d1333-6095-4f52-8ff3-52bf815f340a">
+					<coordinates>-73.962404,41.376684,21.488203</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="b576870c-bd34-4f05-86ed-ae0784b6733b">
+				<name>3394</name>
+				<description><![CDATA[Time: 12:18:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 7.004681<br>]]></description>
+				<LookAt id="26c1743a-8bb5-41eb-b9de-bf06a7fbeb3b">
+					<longitude>-73.962402</longitude>
+					<latitude>41.376691</latitude>
+					<altitude>21.517714</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="ca1c5089-40c7-4384-9bcf-5253eb13c293">
+					<coordinates>-73.962402,41.376691,21.517714</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5addf6ac-f2a1-4639-85c5-476b0af3f46a">
+				<name>3395</name>
+				<description><![CDATA[Time: 12:18:13<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 9.94486<br>]]></description>
+				<LookAt id="259d9f71-21ad-43f5-ad7c-77c2d4d03b02">
+					<longitude>-73.962371</longitude>
+					<latitude>41.376784</latitude>
+					<altitude>21.643391</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="e5e6f1d4-5636-4a28-913a-470ed8c8972b">
+					<coordinates>-73.962371,41.376784,21.643391</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="979ac0a0-ef50-4362-a5f0-874244566447">
+				<name>3396</name>
+				<description><![CDATA[Time: 12:18:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 21.403719<br>]]></description>
+				<LookAt id="14611572-0a3c-4fb2-8b80-5b8fdcd8a854">
+					<longitude>-73.962335</longitude>
+					<latitude>41.376986</latitude>
+					<altitude>21.147959</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="305b6654-aa18-4e44-b855-a22b21f783b4">
+					<coordinates>-73.962335,41.376986,21.147959</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1edda0eb-1f8c-426b-9ffb-62987d2f5f79">
+				<name>3397</name>
+				<description><![CDATA[Time: 12:18:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 23.98299<br>]]></description>
+				<LookAt id="1955b5d9-0e87-4796-b833-334db7f1020f">
+					<longitude>-73.962116</longitude>
+					<latitude>41.377215</latitude>
+					<altitude>20.764685</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="4fdcf15f-119a-489d-81ff-910a09cc87fb">
+					<coordinates>-73.962116,41.377215,20.764685</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7278ecf1-8174-4371-9db4-bffedfe22297">
+				<name>3398</name>
+				<description><![CDATA[Time: 12:18:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 27.065763<br>]]></description>
+				<LookAt id="c440a8d5-8fb7-4bb4-98d9-57987439930b">
+					<longitude>-73.961802</longitude>
+					<latitude>41.377428</latitude>
+					<altitude>20.098961</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="ba44caf4-5184-44ec-8996-3e52c5c8910a">
+					<coordinates>-73.961802,41.377428,20.098961</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="21f654a2-f3f9-4e64-926e-b5ed80b4e5d4">
+				<name>3399</name>
+				<description><![CDATA[Time: 12:18:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 26.886358<br>]]></description>
+				<LookAt id="b85bb220-ceb3-4c03-9f32-e6cb83cf9a6a">
+					<longitude>-73.961442</longitude>
+					<latitude>41.377644</latitude>
+					<altitude>19.674858</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="e9ca1048-0e33-48a8-a415-a643a475963e">
+					<coordinates>-73.961442,41.377644,19.674858</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="b29b9a43-5b7d-4f58-adaa-75a6336087a5">
+				<name>3400</name>
+				<description><![CDATA[Time: 12:18:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 26.155739<br>]]></description>
+				<LookAt id="fb59ef40-c1aa-4a3d-893a-3483ae02a039">
+					<longitude>-73.96111</longitude>
+					<latitude>41.377863</latitude>
+					<altitude>20.04245</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="6d0105db-b3ec-4439-b07b-a5be8f067d36">
+					<coordinates>-73.96111,41.377863,20.04245</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0e2cbc60-8cdd-486f-9221-93a64dd19ecf">
+				<name>3401</name>
+				<description><![CDATA[Time: 12:18:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 17.790211<br>]]></description>
+				<LookAt id="e4eb4e5f-d9bc-4b47-aff4-1fc3f5dc616c">
+					<longitude>-73.960818</longitude>
+					<latitude>41.37804</latitude>
+					<altitude>19.967003</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="b4da33c3-e688-416d-8731-f8e895e1132d">
+					<coordinates>-73.960818,41.37804,19.967003</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0d4a1fbd-18d1-4c0f-8dad-318b48fe301d">
+				<name>3402</name>
+				<description><![CDATA[Time: 12:18:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 10.929044<br>]]></description>
+				<LookAt id="3b4cb451-a24e-49b8-9ad1-f93241f34ff4">
+					<longitude>-73.96064</longitude>
+					<latitude>41.378174</latitude>
+					<altitude>20.16184</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="17956211-815f-488c-8156-d408cbdef1a9">
+					<coordinates>-73.96064,41.378174,20.16184</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06cb9917-75db-46b4-98f0-1b3adb1e6d69">
+				<name>3403</name>
+				<description><![CDATA[Time: 12:18:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.026956<br>]]></description>
+				<LookAt id="20f4b723-8d48-43e5-bf5d-fd3b7d17194c">
+					<longitude>-73.960556</longitude>
+					<latitude>41.378217</latitude>
+					<altitude>19.938972</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="776583df-10c9-4314-a84c-673de213604a">
+					<coordinates>-73.960556,41.378217,19.938972</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="f127b060-9dd0-491a-834e-34957b2d15ac">
+				<name>3404</name>
+				<description><![CDATA[Time: 12:18:58<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.138396<br>]]></description>
+				<LookAt id="ac2ee640-1930-4965-9da7-9cfe2086e4d3">
+					<longitude>-73.960554</longitude>
+					<latitude>41.378234</latitude>
+					<altitude>20.188334</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="fe18cecc-662b-499c-b542-f8b988a63225">
+					<coordinates>-73.960554,41.378234,20.188334</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="a10f437d-6c09-44ac-b86d-2ab6cbbdf320">
+				<name>3405</name>
+				<description><![CDATA[Time: 12:19:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.406157<br>]]></description>
+				<LookAt id="066b3369-5bdf-4835-8c5d-23c46b9cf18b">
+					<longitude>-73.960553</longitude>
+					<latitude>41.378236</latitude>
+					<altitude>20.229624</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="067a22b0-9331-4c09-9fb7-3753d58a4e7a">
+					<coordinates>-73.960553,41.378236,20.229624</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0e5ed340-f99d-40ef-8452-8a8d6608017c">
+				<name>3406</name>
+				<description><![CDATA[Time: 12:19:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 7.009828<br>]]></description>
+				<LookAt id="1dc462c8-66a0-4487-aa01-777c3740c51b">
+					<longitude>-73.960495</longitude>
+					<latitude>41.378292</latitude>
+					<altitude>20.229328</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="e7c03455-a69f-40b9-9139-4291909db87b">
+					<coordinates>-73.960495,41.378292,20.229328</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="28e8dd68-0cfd-4c48-9e26-c4c2e24c8614">
+				<name>3407</name>
+				<description><![CDATA[Time: 12:19:12<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.65292<br>]]></description>
+				<LookAt id="5f02c31c-fcd1-4243-b1d8-bf0c8a09ab2a">
+					<longitude>-73.960445</longitude>
+					<latitude>41.378351</latitude>
+					<altitude>19.518021</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="e62fcdc3-4d4a-4d5b-a9fd-b7eeab795281">
+					<coordinates>-73.960445,41.378351,19.518021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="80da0228-a0e8-4c8a-8fc0-ef12a0fd1075">
+				<name>3408</name>
+				<description><![CDATA[Time: 12:19:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.029454<br>]]></description>
+				<LookAt id="99453a52-36dc-4491-9e0b-316c6b7e7cc5">
+					<longitude>-73.960439</longitude>
+					<latitude>41.378364</latitude>
+					<altitude>19.04707</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="247f6afc-0997-4120-a836-aa630091d8ed">
+					<coordinates>-73.960439,41.378364,19.04707</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="47c209f4-d5c2-4edf-bd21-bbf7cd3e0751">
+				<name>3409</name>
+				<description><![CDATA[Time: 12:19:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.076012<br>]]></description>
+				<LookAt id="1ab57d8c-bf53-4acd-83b0-cd8827ab6d6d">
+					<longitude>-73.960439</longitude>
+					<latitude>41.378364</latitude>
+					<altitude>18.983883</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="b9967035-f3c1-4e28-9c5f-72d10dd339b7">
+					<coordinates>-73.960439,41.378364,18.983883</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="f40af10f-4b61-4625-b902-e70152188cd6">
+				<name>3410</name>
+				<description><![CDATA[Time: 12:19:27<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 4.447198<br>]]></description>
+				<LookAt id="f23b4439-94f8-4528-b9ab-da61e68b6b10">
+					<longitude>-73.960437</longitude>
+					<latitude>41.378379</latitude>
+					<altitude>18.980959</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="a2e974bf-871e-4f6d-9ef1-5856575b497b">
+					<coordinates>-73.960437,41.378379,18.980959</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="55fc91fd-8ac6-4121-be6b-ed638720f570">
+				<name>3411</name>
+				<description><![CDATA[Time: 12:20:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.056149<br>]]></description>
+				<LookAt id="190323a2-db13-47d8-b501-efbb5da1f17e">
+					<longitude>-73.960397</longitude>
+					<latitude>41.378419</latitude>
+					<altitude>18.575293</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="5d9ee893-5b48-4ad6-8520-b77f0b8892fd">
+					<coordinates>-73.960397,41.378419,18.575293</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5b7ee556-396c-4804-a5a5-50d4e5426e6b">
+				<name>3412</name>
+				<description><![CDATA[Time: 12:20:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 4.697757<br>]]></description>
+				<LookAt id="1cb670b6-4728-4a54-8d89-2721d056583c">
+					<longitude>-73.960387</longitude>
+					<latitude>41.378423</latitude>
+					<altitude>18.65037</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="0103421d-d84f-4c65-90f8-eb6278f0ff26">
+					<coordinates>-73.960387,41.378423,18.65037</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="e61cb457-fcfc-4b72-ab8f-366375121665">
+				<name>3413</name>
+				<description><![CDATA[Time: 12:20:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.570331<br>]]></description>
+				<LookAt id="7963c560-028e-489a-b585-5ab53076aff0">
+					<longitude>-73.960357</longitude>
+					<latitude>41.378461</latitude>
+					<altitude>18.674822</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="169e67a6-fdba-496b-a724-e5e25600da38">
+					<coordinates>-73.960357,41.378461,18.674822</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="bc01f388-120d-4539-9ec2-19f58a00e502">
+				<name>3414</name>
+				<description><![CDATA[Time: 12:20:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.629972<br>]]></description>
+				<LookAt id="d45c371c-6e94-4314-a761-585f29236e5e">
+					<longitude>-73.960348</longitude>
+					<latitude>41.378516</latitude>
+					<altitude>18.14271</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="3e370f88-9c67-4ab7-8959-8e9eb361b2bb">
+					<coordinates>-73.960348,41.378516,18.14271</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="f5527def-7d7e-45fd-88f7-561874becebb">
+				<name>3415</name>
+				<description><![CDATA[Time: 12:20:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.524845<br>]]></description>
+				<LookAt id="36fac37b-17c1-49f7-8fba-1dfdab712561">
+					<longitude>-73.960339</longitude>
+					<latitude>41.378558</latitude>
+					<altitude>17.796736</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="05bf6421-b056-402c-bc89-571387d7579d">
+					<coordinates>-73.960339,41.378558,17.796736</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="f3c3d785-83dd-412c-bd48-d564a0503698">
+				<name>3416</name>
+				<description><![CDATA[Time: 12:20:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.232776<br>]]></description>
+				<LookAt id="ba4bae56-5b75-4ac0-b47c-6a126c9f16aa">
+					<longitude>-73.960321</longitude>
+					<latitude>41.378587</latitude>
+					<altitude>19.902525</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c978c84a-f0f7-4153-87f7-31bb92fbc724">
+					<coordinates>-73.960321,41.378587,19.902525</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1e1a0073-83db-4b74-8b50-70908f622639">
+				<name>3417</name>
+				<description><![CDATA[Time: 12:20:58<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 5.698272<br>]]></description>
+				<LookAt id="8ae0a67b-ff67-4b82-b0d6-368a6d31b0e9">
+					<longitude>-73.96029</longitude>
+					<latitude>41.37865</latitude>
+					<altitude>20.348215</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="6d943d69-ff91-4236-9bd1-10b56674df5c">
+					<coordinates>-73.96029,41.37865,20.348215</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3357ee1d-f909-413b-a533-425073761e9a">
+				<name>3418</name>
+				<description><![CDATA[Time: 12:21:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 8.88498<br>]]></description>
+				<LookAt id="c41f62f5-be68-4c9f-8ec7-f2075fa919e0">
+					<longitude>-73.960272</longitude>
+					<latitude>41.378737</latitude>
+					<altitude>20.872107</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="3094fa71-0f08-41ff-94c2-a612f53cbcef">
+					<coordinates>-73.960272,41.378737,20.872107</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="90d7de0a-5153-4600-9576-d9f32b4d94ce">
+				<name>3419</name>
+				<description><![CDATA[Time: 12:21:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 22.355722<br>]]></description>
+				<LookAt id="0a3e25cc-9534-412c-a052-09b659fe3fab">
+					<longitude>-73.960244</longitude>
+					<latitude>41.378966</latitude>
+					<altitude>22.5277</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="8dcb7607-d48a-406f-a517-54c4e60d7a6a">
+					<coordinates>-73.960244,41.378966,22.5277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="a1aea3d3-cff2-4888-a9aa-83fa2d0f0ed3">
+				<name>3420</name>
+				<description><![CDATA[Time: 12:21:12<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 18.797182<br>]]></description>
+				<LookAt id="0733ec20-19d0-47d1-9c1c-1a4354d40041">
+					<longitude>-73.960194</longitude>
+					<latitude>41.379236</latitude>
+					<altitude>21.365314</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="41a9d1e8-e7e6-40e8-8172-34cfca85690c">
+					<coordinates>-73.960194,41.379236,21.365314</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="28d21a0e-86c2-4183-a57e-e944f0b58040">
+				<name>3421</name>
+				<description><![CDATA[Time: 12:21:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 6.143696<br>]]></description>
+				<LookAt id="f7859e47-a770-41c7-8192-cd4085c74791">
+					<longitude>-73.960088</longitude>
+					<latitude>41.379449</latitude>
+					<altitude>21.036953</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="9686c03c-2519-49e7-9b5b-748365dd4006">
+					<coordinates>-73.960088,41.379449,21.036953</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="248d3e83-b7ee-4d80-bc91-d0a2a2bc6ccf">
+				<name>3422</name>
+				<description><![CDATA[Time: 12:21:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.131187<br>]]></description>
+				<LookAt id="63c54210-c1ac-4557-8012-541e6235db5e">
+					<longitude>-73.960088</longitude>
+					<latitude>41.379473</latitude>
+					<altitude>20.035072</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="6320ed4f-63bc-40bc-ad00-349b5a972108">
+					<coordinates>-73.960088,41.379473,20.035072</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7c7f6dec-fc13-4251-afc4-f02aef73b156">
+				<name>3423</name>
+				<description><![CDATA[Time: 12:21:27<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.213513<br>]]></description>
+				<LookAt id="4a179760-3707-4596-a69f-2d8f77718eca">
+					<longitude>-73.960085</longitude>
+					<latitude>41.379474</latitude>
+					<altitude>20.042633</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="053e1387-1acb-4c1f-8e85-ca47208784e2">
+					<coordinates>-73.960085,41.379474,20.042633</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="79f9e128-f427-44db-a28d-2a4afc833a34">
+				<name>3424</name>
+				<description><![CDATA[Time: 12:21:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 8.123673<br>]]></description>
+				<LookAt id="b0ab2970-019c-47ed-ad36-13c9d5ae89aa">
+					<longitude>-73.960074</longitude>
+					<latitude>41.379507</latitude>
+					<altitude>19.839199</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="cddc7853-d978-4cde-b338-5d6cd7a3a3a0">
+					<coordinates>-73.960074,41.379507,19.839199</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0a4c9538-7cb7-4833-90ad-b8241ac34ec1">
+				<name>3425</name>
+				<description><![CDATA[Time: 12:21:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 31.364281<br>]]></description>
+				<LookAt id="ffe28442-f40e-4145-a77a-10d73236f0f1">
+					<longitude>-73.959946</longitude>
+					<latitude>41.379731</latitude>
+					<altitude>20.560509</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="af725f01-a582-40dc-b3bb-104fa2f54ae6">
+					<coordinates>-73.959946,41.379731,20.560509</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="8175149b-f5ee-4395-a843-669219461897">
+				<name>3426</name>
+				<description><![CDATA[Time: 12:21:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 46.400784<br>]]></description>
+				<LookAt id="adc6f8ec-0408-4bfa-bc6c-66c91e07bb79">
+					<longitude>-73.95956</longitude>
+					<latitude>41.380161</latitude>
+					<altitude>20.288107</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="e909ac6e-880b-41e4-9f13-c54ea9c5808d">
+					<coordinates>-73.95956,41.380161,20.288107</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="528b1dff-08f5-4cfa-95b8-a7f4636d0bc9">
+				<name>3427</name>
+				<description><![CDATA[Time: 12:21:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 46.201828<br>]]></description>
+				<LookAt id="76dd4f3c-279e-4858-8ee1-02a2b2a708a3">
+					<longitude>-73.959121</longitude>
+					<latitude>41.380652</latitude>
+					<altitude>22.252533</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="9798f455-7961-45a2-b05d-24f5a8d608b1">
+					<coordinates>-73.959121,41.380652,22.252533</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3dcf62d7-2976-41e6-b76e-42d6ec73c5d1">
+				<name>3428</name>
+				<description><![CDATA[Time: 12:21:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 42.775204<br>]]></description>
+				<LookAt id="10f3d4ad-f313-4719-a404-f64f37d76f17">
+					<longitude>-73.958771</longitude>
+					<latitude>41.381137</latitude>
+					<altitude>22.865314</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="560a7b21-4bc5-4eca-9993-cc743f2c5320">
+					<coordinates>-73.958771,41.381137,22.865314</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="e5111f1a-db66-460f-98a8-e8d14033fb58">
+				<name>3429</name>
+				<description><![CDATA[Time: 12:21:58<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 43.258934<br>]]></description>
+				<LookAt id="c02a6a89-a169-4d61-891b-1f0f0a607f2e">
+					<longitude>-73.958579</longitude>
+					<latitude>41.381653</latitude>
+					<altitude>22.288261</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c44377a1-6cfd-4686-8883-421e5d04f5cd">
+					<coordinates>-73.958579,41.381653,22.288261</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4a01a5a9-f9aa-48c7-968b-7cf4ddb892c3">
+				<name>3430</name>
+				<description><![CDATA[Time: 12:22:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 39.824223<br>]]></description>
+				<LookAt id="0e859d86-0b6a-444c-97f4-24448a645fab">
+					<longitude>-73.958523</longitude>
+					<latitude>41.382166</latitude>
+					<altitude>20.386084</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="7140f42c-343d-4d15-b798-b30b8590c7d1">
+					<coordinates>-73.958523,41.382166,20.386084</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="fd9ca83b-66b3-4cec-a398-ed4a843c11f5">
+				<name>3431</name>
+				<description><![CDATA[Time: 12:22:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 41.054199<br>]]></description>
+				<LookAt id="d63e21c5-425b-404d-8015-7ba08e89c184">
+					<longitude>-73.958423</longitude>
+					<latitude>41.382667</latitude>
+					<altitude>17.889063</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="2bc171f1-0b49-4c99-8909-7ef60429c04e">
+					<coordinates>-73.958423,41.382667,17.889063</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="bd68ba06-558e-4af7-940a-af42df9eba5e">
+				<name>3432</name>
+				<description><![CDATA[Time: 12:22:13<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 43.218777<br>]]></description>
+				<LookAt id="8ccc1b65-ff48-4b6b-8b72-08ccdf2a7a9d">
+					<longitude>-73.958148</longitude>
+					<latitude>41.383145</latitude>
+					<altitude>17.213079</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c1d23f08-30ea-4fea-be6a-8d0993030371">
+					<coordinates>-73.958148,41.383145,17.213079</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="fe33ee5b-88ba-4788-8f30-7dec3e841e13">
+				<name>3433</name>
+				<description><![CDATA[Time: 12:22:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 43.075256<br>]]></description>
+				<LookAt id="c9687420-55c6-45b0-9e95-29c4158dd266">
+					<longitude>-73.957685</longitude>
+					<latitude>41.383562</latitude>
+					<altitude>16.180698</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="7db6ba41-5b80-4688-8e78-5987174a5abb">
+					<coordinates>-73.957685,41.383562,16.180698</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="29601777-9d4b-4dc9-a92a-ca7538bae376">
+				<name>3434</name>
+				<description><![CDATA[Time: 12:22:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 41.447529<br>]]></description>
+				<LookAt id="13565332-6a55-454f-b411-41ae09a460ef">
+					<longitude>-73.957246</longitude>
+					<latitude>41.38397</latitude>
+					<altitude>15.107528</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="d48ecd4f-a1c0-4c72-a1a2-e78f5997b225">
+					<coordinates>-73.957246,41.38397,15.107528</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0ec588ac-e87d-41be-9c8e-fb590471b75f">
+				<name>3435</name>
+				<description><![CDATA[Time: 12:22:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 40.755074<br>]]></description>
+				<LookAt id="a95c2125-20f5-4437-bd4f-c70449984484">
+					<longitude>-73.956928</longitude>
+					<latitude>41.384433</latitude>
+					<altitude>14.951629</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="ca0ba24f-a9e2-4ea9-aed9-b4f112fdb8fc">
+					<coordinates>-73.956928,41.384433,14.951629</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="c81589f4-6e95-43d9-828d-10fa076297c5">
+				<name>3436</name>
+				<description><![CDATA[Time: 12:22:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 38.275238<br>]]></description>
+				<LookAt id="1b2c3fc7-c739-4b8b-9d9f-eddc53696532">
+					<longitude>-73.956768</longitude>
+					<latitude>41.384914</latitude>
+					<altitude>11.926532</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="f680b362-ce61-49ce-9c5f-613bb66f0029">
+					<coordinates>-73.956768,41.384914,11.926532</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5a93a83e-a23b-4afd-89e8-1413eab6317f">
+				<name>3437</name>
+				<description><![CDATA[Time: 12:22:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 39.538582<br>]]></description>
+				<LookAt id="edcfb22e-91fc-4661-bf82-6a4926618c78">
+					<longitude>-73.956763</longitude>
+					<latitude>41.385402</latitude>
+					<altitude>9.378169</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="358ca22e-6390-41c9-8e89-9ce3dddfc014">
+					<coordinates>-73.956763,41.385402,9.378169</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="c375444b-963a-4e9b-91b9-ed449ef5a89f">
+				<name>3438</name>
+				<description><![CDATA[Time: 12:22:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 39.790554<br>]]></description>
+				<LookAt id="3cfc45a1-ffa5-4092-920b-d607faf6a0c0">
+					<longitude>-73.956535</longitude>
+					<latitude>41.385868</latitude>
+					<altitude>6.986937</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="18758a30-8ff0-4e6c-abab-fa96b3258b29">
+					<coordinates>-73.956535,41.385868,6.986937</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="36396596-a7fc-4704-961c-f838eda3d7cf">
+				<name>3439</name>
+				<description><![CDATA[Time: 12:22:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 35.327065<br>]]></description>
+				<LookAt id="3e1ce02e-ff45-4cb9-af3e-8aaa3e34481c">
+					<longitude>-73.956417</longitude>
+					<latitude>41.386342</latitude>
+					<altitude>9.765988</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="a962c3b2-312e-42b8-8e5c-279022f4f893">
+					<coordinates>-73.956417,41.386342,9.765988</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="08445b8c-ad7e-4f5c-a307-9280069c9013">
+				<name>3440</name>
+				<description><![CDATA[Time: 12:22:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 32.330307<br>]]></description>
+				<LookAt id="b17d7e9f-0511-4e7b-b814-de6ebcdea44a">
+					<longitude>-73.956344</longitude>
+					<latitude>41.386751</latitude>
+					<altitude>11.77583</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="03550689-4e21-444e-a225-11fbaf3e10c0">
+					<coordinates>-73.956344,41.386751,11.77583</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2ae39f0f-b6c1-4dde-bea7-0a75344db5dc">
+				<name>3441</name>
+				<description><![CDATA[Time: 12:22:57<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 31.31682<br>]]></description>
+				<LookAt id="eb9c269c-55c1-43af-b089-9a2bcd7726f2">
+					<longitude>-73.956187</longitude>
+					<latitude>41.387134</latitude>
+					<altitude>15.261793</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="45122bff-9e2e-4aa2-9cef-daf68ccd3ef0">
+					<coordinates>-73.956187,41.387134,15.261793</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5502242e-63c2-4dab-ba7a-88bdc6479489">
+				<name>3442</name>
+				<description><![CDATA[Time: 12:23:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 12.976089<br>]]></description>
+				<LookAt id="83da9786-581e-4213-a159-e55ecfd2e4ec">
+					<longitude>-73.956081</longitude>
+					<latitude>41.387428</latitude>
+					<altitude>13.644241</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="a2c7c19b-b36c-43be-ae4d-91f318d4229e">
+					<coordinates>-73.956081,41.387428,13.644241</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="58e57c2c-eaed-4701-8996-1a373669f32b">
+				<name>3443</name>
+				<description><![CDATA[Time: 12:23:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.10319<br>]]></description>
+				<LookAt id="8d426001-2b20-4ebf-8ed2-c7619187571b">
+					<longitude>-73.956078</longitude>
+					<latitude>41.38747</latitude>
+					<altitude>11.315445</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="f9281cc6-1c58-4e53-b397-a14f56ad77a6">
+					<coordinates>-73.956078,41.38747,11.315445</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="d7e1c3a6-b5af-4c88-bee9-f35fdc1557f5">
+				<name>3444</name>
+				<description><![CDATA[Time: 12:23:12<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 19.038437<br>]]></description>
+				<LookAt id="c42ff2fd-bba5-4e38-9c00-c7b40ea8f681">
+					<longitude>-73.95607</longitude>
+					<latitude>41.387543</latitude>
+					<altitude>10.376477</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="9b5802b9-4606-4b24-a89f-8a8b7ddd1b6e">
+					<coordinates>-73.95607,41.387543,10.376477</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="06e079c2-d440-4060-ab9c-c7198fafe6cc">
+				<name>3445</name>
+				<description><![CDATA[Time: 12:23:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 31.243465<br>]]></description>
+				<LookAt id="ebaa8542-dd95-4a62-9824-79d33b2a4870">
+					<longitude>-73.956042</longitude>
+					<latitude>41.387883</latitude>
+					<altitude>8.285999</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c225f183-66b6-48c2-8380-6b583b366528">
+					<coordinates>-73.956042,41.387883,8.285999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="209f04bd-8519-4fd5-929b-d60e158b93db">
+				<name>3446</name>
+				<description><![CDATA[Time: 12:23:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 30.182327<br>]]></description>
+				<LookAt id="b8e9bd0d-4808-4a5d-9613-d0d34848cf7e">
+					<longitude>-73.955985</longitude>
+					<latitude>41.388268</latitude>
+					<altitude>6.197733</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="372a10d7-e6f3-46b4-bfa1-ca4e9e8e2c3a">
+					<coordinates>-73.955985,41.388268,6.197733</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="db36cdb0-b39b-4fea-a6ea-1113f65b5aff">
+				<name>3447</name>
+				<description><![CDATA[Time: 12:23:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 24.7181<br>]]></description>
+				<LookAt id="05c1727d-e017-4315-a372-2bdeffeb27df">
+					<longitude>-73.955945</longitude>
+					<latitude>41.38859</latitude>
+					<altitude>4.444929</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="551dea2f-328e-4874-9165-9475b8ccc8bb">
+					<coordinates>-73.955945,41.38859,4.444929</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="42e131c3-a315-4303-b444-a37c60b8d40f">
+				<name>3448</name>
+				<description><![CDATA[Time: 12:23:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 17.750811<br>]]></description>
+				<LookAt id="b43237f2-7df7-40d6-8d91-8d9ecbdd8272">
+					<longitude>-73.955871</longitude>
+					<latitude>41.388853</latitude>
+					<altitude>1.979421</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="ca8c3245-65b7-43ea-a19b-6a72f696609a">
+					<coordinates>-73.955871,41.388853,1.979421</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="a4afb874-ce86-4193-a62b-27827cb3484a">
+				<name>3449</name>
+				<description><![CDATA[Time: 12:23:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.085147<br>]]></description>
+				<LookAt id="639b70ff-a94d-4644-9c1d-0273041f50c1">
+					<longitude>-73.955847</longitude>
+					<latitude>41.388961</latitude>
+					<altitude>-0.646774</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="d23109fa-f69f-4c40-b5d6-08af8b9c0c94">
+					<coordinates>-73.955847,41.388961,-0.646774</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="cd864087-1f38-4fbf-8f2e-589f5699f3f8">
+				<name>3450</name>
+				<description><![CDATA[Time: 12:23:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 1.326337<br>]]></description>
+				<LookAt id="c97a7d07-77e5-4539-82ac-b9481317d637">
+					<longitude>-73.955831</longitude>
+					<latitude>41.388952</latitude>
+					<altitude>-3.083294</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="bfbe1d44-8256-4bc2-bc84-37a3cccadafe">
+					<coordinates>-73.955831,41.388952,-3.083294</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="78fe09b0-d754-47d2-9315-e56cbd3af6c4">
+				<name>3451</name>
+				<description><![CDATA[Time: 12:23:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 1.426392<br>]]></description>
+				<LookAt id="fa732498-cd89-4883-a908-1f450f642c17">
+					<longitude>-73.955838</longitude>
+					<latitude>41.388929</latitude>
+					<altitude>-4.804757</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="0a831dcb-a468-4bd7-bd04-0200cd7d98f9">
+					<coordinates>-73.955838,41.388929,-4.804757</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2f79c445-ef67-456a-97ec-b7c0cc6f8272">
+				<name>3452</name>
+				<description><![CDATA[Time: 12:23:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 1.783304<br>]]></description>
+				<LookAt id="40853395-fb80-4da4-808e-24477da0208e">
+					<longitude>-73.955817</longitude>
+					<latitude>41.388923</latitude>
+					<altitude>-6.414892</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="49f6d71b-2bf9-4819-925f-771fa4099d3e">
+					<coordinates>-73.955817,41.388923,-6.414892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7dd112ed-7bcb-48ca-8c45-942009424403">
+				<name>3453</name>
+				<description><![CDATA[Time: 12:23:58<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 1.49262<br>]]></description>
+				<LookAt id="e8694b71-5ae3-49fc-8eb1-175d673d1241">
+					<longitude>-73.9558</longitude>
+					<latitude>41.388921</latitude>
+					<altitude>-7.943443</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="11f81196-a9cf-4a6a-94f6-ae670dc8fe76">
+					<coordinates>-73.9558,41.388921,-7.943443</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="47e3f5c1-aa51-4b00-bfe0-6d60ed51777a">
+				<name>3454</name>
+				<description><![CDATA[Time: 12:24:3<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 2.147447<br>]]></description>
+				<LookAt id="9fed2812-544c-4da0-8066-7d15e1fcca63">
+					<longitude>-73.955774</longitude>
+					<latitude>41.388863</latitude>
+					<altitude>-9.370752</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="dd108ce4-97ed-4938-ad42-1cab862d4b6a">
+					<coordinates>-73.955774,41.388863,-9.370752</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="76b0d299-38c6-49ef-bd37-74d0ed7bd976">
+				<name>3455</name>
+				<description><![CDATA[Time: 12:24:8<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.303776<br>]]></description>
+				<LookAt id="189ebca1-2df2-4e24-896c-d2d3a7f6cec4">
+					<longitude>-73.955694</longitude>
+					<latitude>41.388873</latitude>
+					<altitude>-10.649421</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="ff446e9b-2986-46e7-ac86-82fda6679ebc">
+					<coordinates>-73.955694,41.388873,-10.649421</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="d895f8a7-188e-4bda-be46-fc76608171bc">
+				<name>3456</name>
+				<description><![CDATA[Time: 12:24:13<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.473202<br>]]></description>
+				<LookAt id="20b18b1e-a310-4940-aaf7-0e5c8984f235">
+					<longitude>-73.955645</longitude>
+					<latitude>41.388864</latitude>
+					<altitude>-11.998875</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="fa1dbfa6-2d62-48b8-8c8e-a9fddd6eea7b">
+					<coordinates>-73.955645,41.388864,-11.998875</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="d3a4d5c3-5816-4f42-bc0d-2fc4ecf5eb6d">
+				<name>3457</name>
+				<description><![CDATA[Time: 12:24:18<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.513303<br>]]></description>
+				<LookAt id="6f94358b-5d86-4714-9289-7b4b7cf3c98c">
+					<longitude>-73.955636</longitude>
+					<latitude>41.388794</latitude>
+					<altitude>-13.380673</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="03da0fa2-d873-42c9-80ab-f70cda547d86">
+					<coordinates>-73.955636,41.388794,-13.380673</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="775e37e8-0a27-4e25-b4b9-42e596f6c691">
+				<name>3458</name>
+				<description><![CDATA[Time: 12:24:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.164575<br>]]></description>
+				<LookAt id="79514cfa-e45a-4be8-bcb7-1800e3771154">
+					<longitude>-73.955627</longitude>
+					<latitude>41.388787</latitude>
+					<altitude>-14.70645</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="c5fbafa1-b29f-45da-8800-9b6e6fa6246d">
+					<coordinates>-73.955627,41.388787,-14.70645</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="64ae63c1-a5b0-410e-9b26-8c406b4ca3c0">
+				<name>3459</name>
+				<description><![CDATA[Time: 12:24:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.923713<br>]]></description>
+				<LookAt id="8f1f159b-7f6b-45e8-ab64-0d1b8f11c4d3">
+					<longitude>-73.955634</longitude>
+					<latitude>41.388755</latitude>
+					<altitude>-16.078564</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="d2077625-ed9e-43ee-83e8-25ea2ff79ed1">
+					<coordinates>-73.955634,41.388755,-16.078564</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="30f554b3-25e3-49ef-b40f-9340a122a1f4">
+				<name>3460</name>
+				<description><![CDATA[Time: 12:24:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.316792<br>]]></description>
+				<LookAt id="4f667331-d234-4ca2-ba8f-76ac3a08dcc2">
+					<longitude>-73.955726</longitude>
+					<latitude>41.388744</latitude>
+					<altitude>-17.431839</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="94f459bc-3fce-42b4-ae9c-b0769abc6f74">
+					<coordinates>-73.955726,41.388744,-17.431839</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0e260bd1-7737-4fa4-808c-eb0a1b3b0cc9">
+				<name>3461</name>
+				<description><![CDATA[Time: 12:24:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 4.544037<br>]]></description>
+				<LookAt id="9ea97946-aa12-4d59-9458-49e883299427">
+					<longitude>-73.955836</longitude>
+					<latitude>41.38875</latitude>
+					<altitude>-18.78009</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="7499bcd9-a732-45e5-9775-0dec24dec58e">
+					<coordinates>-73.955836,41.38875,-18.78009</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="f0568569-1d71-4149-85c9-e2652ef2a26b">
+				<name>3462</name>
+				<description><![CDATA[Time: 12:24:43<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 4.171804<br>]]></description>
+				<LookAt id="faf0554b-88d4-4fa3-845a-d480a857b6e7">
+					<longitude>-73.955907</longitude>
+					<latitude>41.38874</latitude>
+					<altitude>-20.027052</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>wpIconNorth</styleUrl>
+				<Point id="a0308ccb-9192-4651-a7dc-ad04ccbc07ea">
+					<coordinates>-73.955907,41.38874,-20.027052</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="d8288f13-99bd-42fd-9e08-bd5c3e92da8a">
+			<name>South Route</name>
+		</Folder>
+		<Folder id="d6c1a16e-a8e0-43f3-ab91-b10fdd69b3e7">
+			<name>People</name>
+			<Placemark id="2e0e3141-2fa7-4e9c-9b90-3586d34518e5">
+				<name>3403</name>
+				<description><![CDATA[Time: 12:18:53<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 3.026956<br><br>0 PAX ENTERED bus<br>1 PAX EXITED bus]]></description>
+				<LookAt id="65780bec-bca0-4e8f-ade0-080d613bdb36">
+					<longitude>-73.960556</longitude>
+					<latitude>41.378217</latitude>
+					<altitude>19.938972</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="6318c64a-c4af-4444-b33e-c310f3086a88">
+					<coordinates>-73.960556,41.378217,19.938972</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3626be2b-f396-41f1-ac90-7a87fe4d03f6">
+				<name>3411</name>
+				<description><![CDATA[Time: 12:20:28<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 0.056149<br><br>0 PAX ENTERED bus<br>1 PAX EXITED bus]]></description>
+				<LookAt id="63cda0ef-bd0f-4256-bf82-47f142d95aeb">
+					<longitude>-73.960397</longitude>
+					<latitude>41.378419</latitude>
+					<altitude>18.575293</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="ce404f8c-1ec2-4b2d-a301-197fdf4332c1">
+					<coordinates>-73.960397,41.378419,18.575293</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="44ec6b77-fa3e-4f1b-a6fe-4316f48487c3">
+				<name>3427</name>
+				<description><![CDATA[Time: 12:21:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 46.201828<br><br>1 PAX ENTERED bus<br>0 PAX EXITED bus]]></description>
+				<LookAt id="b5f6f211-dee9-4248-abfc-c74763802adb">
+					<longitude>-73.959121</longitude>
+					<latitude>41.380652</latitude>
+					<altitude>22.252533</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="de4e270d-6e55-4b8e-9467-7b4d5ce1f65a">
+					<coordinates>-73.959121,41.380652,22.252533</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7acc2f32-9363-49c9-adcb-c638fc2db446">
+				<name>3434</name>
+				<description><![CDATA[Time: 12:22:23<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 41.447529<br><br>0 PAX ENTERED bus<br>3 PAX EXITED bus]]></description>
+				<LookAt id="702e62e7-e080-4543-867e-9d31a38c663f">
+					<longitude>-73.957246</longitude>
+					<latitude>41.38397</latitude>
+					<altitude>15.107528</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="f3c85acd-e6fc-44f6-9855-b95f22ff2769">
+					<coordinates>-73.957246,41.38397,15.107528</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="e29f8d7a-3318-484d-b6b1-fb2002748c8b">
+				<name>3436</name>
+				<description><![CDATA[Time: 12:22:33<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 38.275238<br><br>0 PAX ENTERED bus<br>2 PAX EXITED bus]]></description>
+				<LookAt id="ecbc11d8-7ed1-4631-b11f-10a75627fece">
+					<longitude>-73.956768</longitude>
+					<latitude>41.384914</latitude>
+					<altitude>11.926532</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="a355719b-80de-4c16-9a47-8db092624d1c">
+					<coordinates>-73.956768,41.384914,11.926532</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="92dfef94-7c88-4e45-8d18-301a33340945">
+				<name>3437</name>
+				<description><![CDATA[Time: 12:22:38<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 39.538582<br><br>1 PAX ENTERED bus<br>2 PAX EXITED bus]]></description>
+				<LookAt id="646b1139-b97a-4019-b9dc-511e75b09cdd">
+					<longitude>-73.956763</longitude>
+					<latitude>41.385402</latitude>
+					<altitude>9.378169</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="379a47bb-4e3e-451c-b1fe-66115c394d73">
+					<coordinates>-73.956763,41.385402,9.378169</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="c327e55a-508d-4bc9-9167-15ad07addec9">
+				<name>3439</name>
+				<description><![CDATA[Time: 12:22:48<br>Date: 10/25/2010<br>Trip: 7<br>Direction: N<br>Speed: 35.327065<br><br>0 PAX ENTERED bus<br>1 PAX EXITED bus]]></description>
+				<LookAt id="c95f9026-b3f7-4a31-8e7a-d435c9ed533a">
+					<longitude>-73.956417</longitude>
+					<latitude>41.386342</latitude>
+					<altitude>9.765988</altitude>
+					<heading>0.0</heading>
+					<tilt>45.0</tilt>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<range>6000.0</range>
+				</LookAt>
+				<styleUrl>peopleIcon</styleUrl>
+				<Point id="dcc78c40-50ee-49f2-bd62-ca4fe8821827">
+					<coordinates>-73.956417,41.386342,9.765988</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
